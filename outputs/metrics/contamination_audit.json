@@ -1,0 +1,10 @@
+{
+  "eval_questions": 40,
+  "eval_unique_3gram_count": 80,
+  "exact_question_overlap_count": 0,
+  "exact_question_overlap_examples": [],
+  "protocol_note": "This audit checks exact question overlap and 3-gram lexical overlap. Train and eval files are distinct and use different templates.",
+  "shared_3gram_count": 0,
+  "shared_3gram_ratio": 0.0,
+  "train_questions": 128
+}
