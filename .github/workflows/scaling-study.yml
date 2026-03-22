@@ -1,0 +1,45 @@
+name: tiny-distill-scaling-study
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+  pull_request:
+
+jobs:
+  run-study:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Contamination audit
+        run: |
+          python scripts/contamination_audit.py \
+            --train_files data/train_answer_only.jsonl data/train_short_rationale.jsonl data/train_full_rationale.jsonl \
+            --eval_file data/tiny_eval.jsonl \
+            --output outputs/metrics/contamination_audit.json
+
+      - name: Run scaling study
+        run: |
+          python scripts/run_scaling_curve.py \
+            --budgets 16 32 64 \
+            --formats answer_only short_rationale full_rationale
+
+      - name: Upload metrics artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: tiny-distill-metrics
+          path: outputs/metrics/
