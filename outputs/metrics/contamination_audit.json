@@ -1,0 +1,14 @@
+{
+  "eval_file": "data/tiny_eval.jsonl",
+  "exact_question_overlap_count": 0,
+  "exact_question_overlap_examples": [],
+  "max_ngram_overlap_frac": 0.1429,
+  "mean_ngram_overlap_frac": 0.0143,
+  "ngram_n": 3,
+  "protocol_note": "Train and eval are separate checked-in files with different prompt templates and disjoint IDs.",
+  "train_files": [
+    "data/train_answer_only.jsonl",
+    "data/train_short_rationale.jsonl",
+    "data/train_full_rationale.jsonl"
+  ]
+}

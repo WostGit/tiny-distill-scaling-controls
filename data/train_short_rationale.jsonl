@@ -1,0 +1,128 @@
+{"id": "train-000", "question": "Compute 51 + 10.", "target": "Apply plus; result is 61.\nAnswer: 61"}
+{"id": "train-001", "question": "What is 60 - 4?", "target": "Apply minus; result is 56.\nAnswer: 56"}
+{"id": "train-002", "question": "Solve: 3 * 10.", "target": "Apply times; result is 30.\nAnswer: 30"}
+{"id": "train-003", "question": "Find the value of 22 + 24.", "target": "Apply plus; result is 46.\nAnswer: 46"}
+{"id": "train-004", "question": "Compute 84 - 4.", "target": "Apply minus; result is 80.\nAnswer: 80"}
+{"id": "train-005", "question": "What is 10 * 5?", "target": "Apply times; result is 50.\nAnswer: 50"}
+{"id": "train-006", "question": "Solve: 14 + 6.", "target": "Apply plus; result is 20.\nAnswer: 20"}
+{"id": "train-007", "question": "Find the value of 65 - 27.", "target": "Apply minus; result is 38.\nAnswer: 38"}
+{"id": "train-008", "question": "Compute 3 * 5.", "target": "Apply times; result is 15.\nAnswer: 15"}
+{"id": "train-009", "question": "What is 21 + 36?", "target": "Apply plus; result is 57.\nAnswer: 57"}
+{"id": "train-010", "question": "Solve: 64 - 4.", "target": "Apply minus; result is 60.\nAnswer: 60"}
+{"id": "train-011", "question": "Find the value of 11 * 3.", "target": "Apply times; result is 33.\nAnswer: 33"}
+{"id": "train-012", "question": "Compute 38 + 38.", "target": "Apply plus; result is 76.\nAnswer: 76"}
+{"id": "train-013", "question": "What is 37 - 17?", "target": "Apply minus; result is 20.\nAnswer: 20"}
+{"id": "train-014", "question": "Solve: 11 * 8.", "target": "Apply times; result is 88.\nAnswer: 88"}
+{"id": "train-015", "question": "Find the value of 16 + 15.", "target": "Apply plus; result is 31.\nAnswer: 31"}
+{"id": "train-016", "question": "Compute 36 - 15.", "target": "Apply minus; result is 21.\nAnswer: 21"}
+{"id": "train-017", "question": "What is 4 * 6?", "target": "Apply times; result is 24.\nAnswer: 24"}
+{"id": "train-018", "question": "Solve: 63 + 10.", "target": "Apply plus; result is 73.\nAnswer: 73"}
+{"id": "train-019", "question": "Find the value of 79 - 8.", "target": "Apply minus; result is 71.\nAnswer: 71"}
+{"id": "train-020", "question": "Compute 11 * 6.", "target": "Apply times; result is 66.\nAnswer: 66"}
+{"id": "train-021", "question": "What is 81 + 12?", "target": "Apply plus; result is 93.\nAnswer: 93"}
+{"id": "train-022", "question": "Solve: 38 - 23.", "target": "Apply minus; result is 15.\nAnswer: 15"}
+{"id": "train-023", "question": "Find the value of 11 * 12.", "target": "Apply times; result is 132.\nAnswer: 132"}
+{"id": "train-024", "question": "Compute 34 + 24.", "target": "Apply plus; result is 58.\nAnswer: 58"}
+{"id": "train-025", "question": "What is 36 - 22?", "target": "Apply minus; result is 14.\nAnswer: 14"}
+{"id": "train-026", "question": "Solve: 3 * 11.", "target": "Apply times; result is 33.\nAnswer: 33"}
+{"id": "train-027", "question": "Find the value of 17 + 40.", "target": "Apply plus; result is 57.\nAnswer: 57"}
+{"id": "train-028", "question": "Compute 36 - 32.", "target": "Apply minus; result is 4.\nAnswer: 4"}
+{"id": "train-029", "question": "What is 12 * 10?", "target": "Apply times; result is 120.\nAnswer: 120"}
+{"id": "train-030", "question": "Solve: 64 + 21.", "target": "Apply plus; result is 85.\nAnswer: 85"}
+{"id": "train-031", "question": "Find the value of 69 - 38.", "target": "Apply minus; result is 31.\nAnswer: 31"}
+{"id": "train-032", "question": "Compute 9 * 7.", "target": "Apply times; result is 63.\nAnswer: 63"}
+{"id": "train-033", "question": "What is 48 + 16?", "target": "Apply plus; result is 64.\nAnswer: 64"}
+{"id": "train-034", "question": "Solve: 33 - 16.", "target": "Apply minus; result is 17.\nAnswer: 17"}
+{"id": "train-035", "question": "Find the value of 3 * 11.", "target": "Apply times; result is 33.\nAnswer: 33"}
+{"id": "train-036", "question": "Compute 48 + 34.", "target": "Apply plus; result is 82.\nAnswer: 82"}
+{"id": "train-037", "question": "What is 73 - 22?", "target": "Apply minus; result is 51.\nAnswer: 51"}
+{"id": "train-038", "question": "Solve: 9 * 6.", "target": "Apply times; result is 54.\nAnswer: 54"}
+{"id": "train-039", "question": "Find the value of 87 + 5.", "target": "Apply plus; result is 92.\nAnswer: 92"}
+{"id": "train-040", "question": "Compute 33 - 25.", "target": "Apply minus; result is 8.\nAnswer: 8"}
+{"id": "train-041", "question": "What is 8 * 4?", "target": "Apply times; result is 32.\nAnswer: 32"}
+{"id": "train-042", "question": "Solve: 53 + 10.", "target": "Apply plus; result is 63.\nAnswer: 63"}
+{"id": "train-043", "question": "Find the value of 72 - 27.", "target": "Apply minus; result is 45.\nAnswer: 45"}
+{"id": "train-044", "question": "Compute 2 * 12.", "target": "Apply times; result is 24.\nAnswer: 24"}
+{"id": "train-045", "question": "What is 19 + 36?", "target": "Apply plus; result is 55.\nAnswer: 55"}
+{"id": "train-046", "question": "Solve: 83 - 21.", "target": "Apply minus; result is 62.\nAnswer: 62"}
+{"id": "train-047", "question": "Find the value of 7 * 7.", "target": "Apply times; result is 49.\nAnswer: 49"}
+{"id": "train-048", "question": "Compute 86 + 32.", "target": "Apply plus; result is 118.\nAnswer: 118"}
+{"id": "train-049", "question": "What is 84 - 30?", "target": "Apply minus; result is 54.\nAnswer: 54"}
+{"id": "train-050", "question": "Solve: 3 * 3.", "target": "Apply times; result is 9.\nAnswer: 9"}
+{"id": "train-051", "question": "Find the value of 44 + 31.", "target": "Apply plus; result is 75.\nAnswer: 75"}
+{"id": "train-052", "question": "Compute 99 - 5.", "target": "Apply minus; result is 94.\nAnswer: 94"}
+{"id": "train-053", "question": "What is 2 * 6?", "target": "Apply times; result is 12.\nAnswer: 12"}
+{"id": "train-054", "question": "Solve: 92 + 37.", "target": "Apply plus; result is 129.\nAnswer: 129"}
+{"id": "train-055", "question": "Find the value of 97 - 29.", "target": "Apply minus; result is 68.\nAnswer: 68"}
+{"id": "train-056", "question": "Compute 6 * 8.", "target": "Apply times; result is 48.\nAnswer: 48"}
+{"id": "train-057", "question": "What is 95 + 23?", "target": "Apply plus; result is 118.\nAnswer: 118"}
+{"id": "train-058", "question": "Solve: 30 - 12.", "target": "Apply minus; result is 18.\nAnswer: 18"}
+{"id": "train-059", "question": "Find the value of 7 * 4.", "target": "Apply times; result is 28.\nAnswer: 28"}
+{"id": "train-060", "question": "Compute 88 + 8.", "target": "Apply plus; result is 96.\nAnswer: 96"}
+{"id": "train-061", "question": "What is 73 - 4?", "target": "Apply minus; result is 69.\nAnswer: 69"}
+{"id": "train-062", "question": "Solve: 5 * 6.", "target": "Apply times; result is 30.\nAnswer: 30"}
+{"id": "train-063", "question": "Find the value of 26 + 16.", "target": "Apply plus; result is 42.\nAnswer: 42"}
+{"id": "train-064", "question": "Compute 60 - 26.", "target": "Apply minus; result is 34.\nAnswer: 34"}
+{"id": "train-065", "question": "What is 9 * 3?", "target": "Apply times; result is 27.\nAnswer: 27"}
+{"id": "train-066", "question": "Solve: 31 + 29.", "target": "Apply plus; result is 60.\nAnswer: 60"}
+{"id": "train-067", "question": "Find the value of 61 - 36.", "target": "Apply minus; result is 25.\nAnswer: 25"}
+{"id": "train-068", "question": "Compute 6 * 4.", "target": "Apply times; result is 24.\nAnswer: 24"}
+{"id": "train-069", "question": "What is 65 + 36?", "target": "Apply plus; result is 101.\nAnswer: 101"}
+{"id": "train-070", "question": "Solve: 45 - 27.", "target": "Apply minus; result is 18.\nAnswer: 18"}
+{"id": "train-071", "question": "Find the value of 7 * 12.", "target": "Apply times; result is 84.\nAnswer: 84"}
+{"id": "train-072", "question": "Compute 58 + 15.", "target": "Apply plus; result is 73.\nAnswer: 73"}
+{"id": "train-073", "question": "What is 29 - 6?", "target": "Apply minus; result is 23.\nAnswer: 23"}
+{"id": "train-074", "question": "Solve: 4 * 4.", "target": "Apply times; result is 16.\nAnswer: 16"}
+{"id": "train-075", "question": "Find the value of 39 + 15.", "target": "Apply plus; result is 54.\nAnswer: 54"}
+{"id": "train-076", "question": "Compute 32 - 11.", "target": "Apply minus; result is 21.\nAnswer: 21"}
+{"id": "train-077", "question": "What is 11 * 4?", "target": "Apply times; result is 44.\nAnswer: 44"}
+{"id": "train-078", "question": "Solve: 43 + 19.", "target": "Apply plus; result is 62.\nAnswer: 62"}
+{"id": "train-079", "question": "Find the value of 10 - 10.", "target": "Apply minus; result is 0.\nAnswer: 0"}
+{"id": "train-080", "question": "Compute 8 * 10.", "target": "Apply times; result is 80.\nAnswer: 80"}
+{"id": "train-081", "question": "What is 57 + 40?", "target": "Apply plus; result is 97.\nAnswer: 97"}
+{"id": "train-082", "question": "Solve: 82 - 21.", "target": "Apply minus; result is 61.\nAnswer: 61"}
+{"id": "train-083", "question": "Find the value of 4 * 10.", "target": "Apply times; result is 40.\nAnswer: 40"}
+{"id": "train-084", "question": "Compute 89 + 4.", "target": "Apply plus; result is 93.\nAnswer: 93"}
+{"id": "train-085", "question": "What is 68 - 36?", "target": "Apply minus; result is 32.\nAnswer: 32"}
+{"id": "train-086", "question": "Solve: 8 * 8.", "target": "Apply times; result is 64.\nAnswer: 64"}
+{"id": "train-087", "question": "Find the value of 61 + 26.", "target": "Apply plus; result is 87.\nAnswer: 87"}
+{"id": "train-088", "question": "Compute 31 - 23.", "target": "Apply minus; result is 8.\nAnswer: 8"}
+{"id": "train-089", "question": "What is 12 * 8?", "target": "Apply times; result is 96.\nAnswer: 96"}
+{"id": "train-090", "question": "Solve: 17 + 13.", "target": "Apply plus; result is 30.\nAnswer: 30"}
+{"id": "train-091", "question": "Find the value of 18 - 14.", "target": "Apply minus; result is 4.\nAnswer: 4"}
+{"id": "train-092", "question": "Compute 9 * 4.", "target": "Apply times; result is 36.\nAnswer: 36"}
+{"id": "train-093", "question": "What is 24 + 22?", "target": "Apply plus; result is 46.\nAnswer: 46"}
+{"id": "train-094", "question": "Solve: 86 - 4.", "target": "Apply minus; result is 82.\nAnswer: 82"}
+{"id": "train-095", "question": "Find the value of 3 * 2.", "target": "Apply times; result is 6.\nAnswer: 6"}
+{"id": "train-096", "question": "Compute 82 + 10.", "target": "Apply plus; result is 92.\nAnswer: 92"}
+{"id": "train-097", "question": "What is 78 - 7?", "target": "Apply minus; result is 71.\nAnswer: 71"}
+{"id": "train-098", "question": "Solve: 7 * 11.", "target": "Apply times; result is 77.\nAnswer: 77"}
+{"id": "train-099", "question": "Find the value of 13 + 5.", "target": "Apply plus; result is 18.\nAnswer: 18"}
+{"id": "train-100", "question": "Compute 40 - 36.", "target": "Apply minus; result is 4.\nAnswer: 4"}
+{"id": "train-101", "question": "What is 8 * 4?", "target": "Apply times; result is 32.\nAnswer: 32"}
+{"id": "train-102", "question": "Solve: 91 + 17.", "target": "Apply plus; result is 108.\nAnswer: 108"}
+{"id": "train-103", "question": "Find the value of 54 - 39.", "target": "Apply minus; result is 15.\nAnswer: 15"}
+{"id": "train-104", "question": "Compute 7 * 9.", "target": "Apply times; result is 63.\nAnswer: 63"}
+{"id": "train-105", "question": "What is 25 + 8?", "target": "Apply plus; result is 33.\nAnswer: 33"}
+{"id": "train-106", "question": "Solve: 72 - 30.", "target": "Apply minus; result is 42.\nAnswer: 42"}
+{"id": "train-107", "question": "Find the value of 9 * 9.", "target": "Apply times; result is 81.\nAnswer: 81"}
+{"id": "train-108", "question": "Compute 49 + 6.", "target": "Apply plus; result is 55.\nAnswer: 55"}
+{"id": "train-109", "question": "What is 28 - 7?", "target": "Apply minus; result is 21.\nAnswer: 21"}
+{"id": "train-110", "question": "Solve: 7 * 6.", "target": "Apply times; result is 42.\nAnswer: 42"}
+{"id": "train-111", "question": "Find the value of 71 + 11.", "target": "Apply plus; result is 82.\nAnswer: 82"}
+{"id": "train-112", "question": "Compute 76 - 2.", "target": "Apply minus; result is 74.\nAnswer: 74"}
+{"id": "train-113", "question": "What is 5 * 10?", "target": "Apply times; result is 50.\nAnswer: 50"}
+{"id": "train-114", "question": "Solve: 56 + 10.", "target": "Apply plus; result is 66.\nAnswer: 66"}
+{"id": "train-115", "question": "Find the value of 98 - 35.", "target": "Apply minus; result is 63.\nAnswer: 63"}
+{"id": "train-116", "question": "Compute 2 * 10.", "target": "Apply times; result is 20.\nAnswer: 20"}
+{"id": "train-117", "question": "What is 48 + 6?", "target": "Apply plus; result is 54.\nAnswer: 54"}
+{"id": "train-118", "question": "Solve: 99 - 17.", "target": "Apply minus; result is 82.\nAnswer: 82"}
+{"id": "train-119", "question": "Find the value of 10 * 7.", "target": "Apply times; result is 70.\nAnswer: 70"}
+{"id": "train-120", "question": "Compute 31 + 23.", "target": "Apply plus; result is 54.\nAnswer: 54"}
+{"id": "train-121", "question": "What is 38 - 35?", "target": "Apply minus; result is 3.\nAnswer: 3"}
+{"id": "train-122", "question": "Solve: 10 * 10.", "target": "Apply times; result is 100.\nAnswer: 100"}
+{"id": "train-123", "question": "Find the value of 52 + 15.", "target": "Apply plus; result is 67.\nAnswer: 67"}
+{"id": "train-124", "question": "Compute 88 - 13.", "target": "Apply minus; result is 75.\nAnswer: 75"}
+{"id": "train-125", "question": "What is 5 * 8?", "target": "Apply times; result is 40.\nAnswer: 40"}
+{"id": "train-126", "question": "Solve: 39 + 13.", "target": "Apply plus; result is 52.\nAnswer: 52"}
+{"id": "train-127", "question": "Find the value of 76 - 32.", "target": "Apply minus; result is 44.\nAnswer: 44"}
