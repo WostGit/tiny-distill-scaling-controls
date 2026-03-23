@@ -1,0 +1,9 @@
+{
+  "eval_examples": 40,
+  "exact_prompt_overlap_count": 0,
+  "exact_prompt_overlap_rate": 0.0,
+  "mean_eval_ngram_overlap_rate": 0.0,
+  "ngram_n": 4,
+  "protocol_note": "Train prompts and eval prompts are generated from disjoint operand ranges to reduce direct leakage. This audit reports exact string overlap and token n-gram overlap as a lightweight contamination check.",
+  "train_examples": 384
+}
